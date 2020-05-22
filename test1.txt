@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is DE98-2622
+
+ Directory of C:\Users\Danzil\Desktop\Git
+
+05/22/2020  11:32 AM    <DIR>          .
+05/22/2020  11:32 AM    <DIR>          ..
+05/22/2020  11:32 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  675,448,938,496 bytes free
