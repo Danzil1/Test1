@@ -1,6 +1,6 @@
-for x in range(6):
-    print("Welcome to Jenkins github Integration " + str(x))
+for x in range(5):
+    printr("Welcome to Jenkins github Integration " + str(x))
 else:
-    print("Yes. You successfully completed the first build.")
-    print("You completed more than 50%. Great job")
-    print("Testing for crons on deployment")
+    printr("Yes. You successfully completed the first build.")
+    printr("You completed more than 50%. Great job")
+    printr("Testing for crons on deployment")
